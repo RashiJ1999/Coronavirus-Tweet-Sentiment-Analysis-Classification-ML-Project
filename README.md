@@ -1,4 +1,4 @@
-#CORONAVIRUS TWEET SENTIMENT ANALYSIS
+**CORONAVIRUS TWEET SENTIMENT ANALYSIS**
 ![image](https://github.com/RashiJ1999/Coronavirus-Tweet-Sentiment-Analysis-Classification-ML-Project/assets/112487553/06158165-3186-42af-ad5d-11b4f234519e)
 
 
